@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Clibgit2",
+        "repositoryURL": "https://github.com/yonihemi/Clibgit2",
+        "state": {
+          "branch": "main",
+          "revision": "ca2a5c7ef64ebb1a4918ff1aa21ce4b8465c35e9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
